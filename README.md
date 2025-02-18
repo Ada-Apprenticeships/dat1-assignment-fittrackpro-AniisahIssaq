@@ -308,7 +308,7 @@ member_id | first_name | last_name | email | join_date
 ```plaintext
 member_id | first_name | last_name | registration_count
 ```
-
+z
 ------
 ------
 #### 1.5. Find member with the least class registrations
